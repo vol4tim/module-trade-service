@@ -1,0 +1,5 @@
+export default {
+  builder: '0x35cdc08e6451002682b559dc2a8832aad7ab8392',
+  bank: '0xe3f64991086047cb067f3ef0e49a094690c7e84f',
+  logist: '0xe3f64991086047cb067f3ef0e49a094690c7e84f'
+}
